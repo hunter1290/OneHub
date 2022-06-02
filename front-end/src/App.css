@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Nav_ul{
+    display: flex;
+   
+    align-items: center;
+    list-style: none;
+}
+.Nav_ul li {
+    text-decoration: none;
+    padding: 10px;
+}
